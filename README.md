@@ -37,7 +37,3 @@ ISC
 ## Contact 
 - LinkedIn: [Anant Gabhane](https://www.linkedin.com/in/anantgabhane/)
 - X (Twitter): [@AnantGabhane](https://x.com/AnantGabhane)
-
-## Demo 
-
-- 
