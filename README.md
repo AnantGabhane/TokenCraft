@@ -2,7 +2,12 @@
 
 A Next.js application for tokenizing text with custom tokenization algorithms. Create your own custom token.
 
-![alt text](image.png)
+## Live : 
+- https://tokencraft-3fq93a35q-anantgabhanes-projects.vercel.app/
+
+
+## 🎥 Demo
+![TokenCraft Demo](Screencast%20from%202025-04-10%2016-01-11.gif)
 
 ## Features
 - Custom text tokenization
@@ -32,3 +37,7 @@ ISC
 ## Contact 
 - LinkedIn: [Anant Gabhane](https://www.linkedin.com/in/anantgabhane/)
 - X (Twitter): [@AnantGabhane](https://x.com/AnantGabhane)
+
+## Demo 
+
+- 
